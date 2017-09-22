@@ -1,7 +1,2 @@
-b
-mehrc
-hrc
-love
-happy
-friday
 ruby love allen
+allen love ruby
