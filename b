@@ -3,3 +3,4 @@ mehrc
 hrc
 love
 friday
+allday
